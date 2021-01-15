@@ -7,3 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Term.create! word: 'test1' , definition: 'definition1'
 Term.create! word: 'test2' , definition: 'definition2'
+Term.create! word: 'test2' , definition: 'definition2'
